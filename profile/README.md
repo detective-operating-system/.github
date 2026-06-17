@@ -2,28 +2,57 @@
 
 > The operating system for detectives.
 
-## Mission
+The Detective Operating System (DOS) is a domain-independent investigative operating system for understanding, improving, and governing complex systems.
 
-The Detective Operating System (DOS) provides a shared investigative kernel for all detective organizations.
+DOS provides a shared kernel that enables specialized detectives to investigate software, repositories, architectures, dependencies, cybersecurity concerns, and future domains.
 
-DOS defines:
+## Why DOS Exists
 
-- How detectives investigate
-- How detectives reason
-- How detectives collect evidence
-- How detectives issue verdicts
-- How detectives learn
-- How detectives evolve
+Many tools can find problems.
 
-DOS is domain-independent.
+Few systems can explain:
 
-It does not investigate software, repositories, architecture, security, or dependencies itself.
+- why problems emerged
+- how they evolved
+- what should happen next
+- what knowledge should be preserved
 
-Instead, it provides the common operating system used by all detectives.
+DOS exists to provide a reusable framework for investigation, reasoning, judgment, learning, and continuous improvement.
 
-## Detective Organizations
+## Ecosystem
 
-Current Detective Organizations:
+### Detective Operating System
+
+Provides:
+
+- Constitution
+- Governance
+- Reasoning Engine
+- Evidence Model
+- Verdict Framework
+- Case Management
+- Academy
+- Certification Framework
+
+### Detector Organizations
+
+Detectors discover evidence.
+
+Current detector organizations:
+
+- Code Smell Detector
+- Repository Detector
+- Architecture Detector
+- Dependency Detector
+- Cybersecurity Detector
+
+Detectors never issue verdicts.
+
+### Detective Organizations
+
+Detectives interpret evidence.
+
+Current detective organizations:
 
 - Code Smell Detective
 - Repository Detective
@@ -31,22 +60,35 @@ Current Detective Organizations:
 - Dependency Detective
 - Cybersecurity Detective
 
-## Core Principle
+Detectives never generate evidence.
 
-> Detectives specialize.
->
-> DOS unifies.
+### Skills
 
-## Kernel Components
+Skills perform actions.
 
-- Constitution
-- Governance
-- Reasoning Engine
-- Evidence Model
-- Verdict System
-- Academy
-- Case Management
-- Certification Framework
+Examples:
+
+- Refactoring
+- Architecture Review
+- Repository Audit
+- Threat Modeling
+- Dependency Remediation
+
+Skills never determine guilt.
+
+## Operating Principle
+
+Detector
+↓
+Evidence
+
+Detective
+↓
+Verdict
+
+Skill
+↓
+Action
 
 ## Philosophy
 
@@ -54,8 +96,6 @@ Every smell tells a story.
 
 Every story deserves investigation.
 
-## Learn More
+Detectives specialize.
 
-See:
-
-- architecture/detective-operating-system/DETECTIVE_OPERATING_SYSTEM_SETUP.md
+DOS unifies.
