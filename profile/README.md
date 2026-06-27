@@ -25,7 +25,7 @@ Engineering teams generate enormous amounts of information.
 Most tools stop at detection.
 
 The Detective Operating System continues further by providing a complete investigation lifecycle that transforms observations into actionable engineering knowledge.
-
+```
 Observation
       │
       ▼
@@ -48,7 +48,7 @@ Recommendation
       │
       ▼
 Report
-
+```
 Engineering decisions become evidence-driven rather than opinion-driven.
 
 ⸻
@@ -56,7 +56,7 @@ Engineering decisions become evidence-driven rather than opinion-driven.
 Position within the Open Engineering Platform
 
 The Detective Operating System is one of several specialized Operating Systems within the Open Engineering Platform.
-
+```
 Open Engineering Platform
 │
 ├── Shared Kernel
@@ -68,7 +68,7 @@ Open Engineering Platform
 ├── Game Operating System
 ├── Runner Operating System
 └── Star Operating System
-
+```
 DOS focuses exclusively on engineering investigations.
 
 Other Operating Systems focus on gameplay, orchestration, intelligent characters, and future runtime domains.
@@ -98,7 +98,7 @@ These concepts remain interoperable with every other Operating System through th
 Investigation Architecture
 
 The Detective Operating System separates responsibilities into distinct architectural roles.
-
+```
 Detector
     │
     ▼
@@ -115,7 +115,7 @@ Skill
     │
     ▼
 Action
-
+```
 Each role has a clearly defined responsibility.
 
 Detectors
@@ -257,7 +257,7 @@ Federated Systems of Record
 The Detective Operating System contributes engineering evidence to the Open Engineering Platform.
 
 It collaborates with:
-
+```
 Platform	Responsibility
 Craft.io	Product Management
 GitHub	Engineering
@@ -267,7 +267,7 @@ Kubernetes	Runtime
 Crossplane	Infrastructure Provisioning
 Documentation Repositories	Knowledge
 MCP	AI Context Exchange
-
+```
 DOS owns engineering evidence.
 
 It does not replace the responsibilities of other Systems of Record.
