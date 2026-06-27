@@ -14,24 +14,18 @@ Why DOS Exists
 
 Engineering teams generate enormous amounts of information.
 
-Logs.
-
-Repositories.
-
-Architectures.
-
-Documentation.
-
-Dependencies.
-
-Security findings.
-
-Quality reports.
+* logs
+* repositories
+* architectures
+* documentation
+* dependencies
+* security findings
+* quality reports
 
 Most tools stop at detection.
 
 The Detective Operating System continues further by providing a complete investigation lifecycle that transforms observations into actionable engineering knowledge.
-```
+
 Observation
       │
       ▼
@@ -54,7 +48,7 @@ Recommendation
       │
       ▼
 Report
-```
+
 Engineering decisions become evidence-driven rather than opinion-driven.
 
 ⸻
@@ -62,7 +56,7 @@ Engineering decisions become evidence-driven rather than opinion-driven.
 Position within the Open Engineering Platform
 
 The Detective Operating System is one of several specialized Operating Systems within the Open Engineering Platform.
-```
+
 Open Engineering Platform
 │
 ├── Shared Kernel
@@ -74,8 +68,8 @@ Open Engineering Platform
 ├── Game Operating System
 ├── Runner Operating System
 └── Star Operating System
-```
-DOS focuses exclusively on investigations.
+
+DOS focuses exclusively on engineering investigations.
 
 Other Operating Systems focus on gameplay, orchestration, intelligent characters, and future runtime domains.
 
@@ -104,7 +98,7 @@ These concepts remain interoperable with every other Operating System through th
 Investigation Architecture
 
 The Detective Operating System separates responsibilities into distinct architectural roles.
-```
+
 Detector
     │
     ▼
@@ -121,7 +115,7 @@ Skill
     │
     ▼
 Action
-```
+
 Each role has a clearly defined responsibility.
 
 Detectors
@@ -130,11 +124,15 @@ Detectors discover observations and collect evidence.
 
 Examples include:
 
-* Code Smell Detector
-* Repository Detector
-* Architecture Detector
-* Dependency Detector
-* Cybersecurity Detector
+* Code Smell Detectors
+* Repository Detectors
+* Architecture Detectors
+* Dependency Detectors
+* Cybersecurity Detectors
+* Documentation Detectors
+* Performance Detectors
+* Quality Detectors
+* Compliance Detectors
 
 Detectors observe.
 
@@ -148,15 +146,15 @@ Detectives investigate evidence.
 
 Examples include:
 
-* Code Smell Detective
-* Repository Detective
-* Architecture Detective
-* Dependency Detective
-* Cybersecurity Detective
-* Documentation Detective
-* Performance Detective
-* Quality Detective
-* Compliance Detective
+* Code Smell Detectives
+* Repository Detectives
+* Architecture Detectives
+* Dependency Detectives
+* Cybersecurity Detectives
+* Documentation Detectives
+* Performance Detectives
+* Quality Detectives
+* Compliance Detectives
 
 Detectives correlate evidence, develop hypotheses, reach verdicts, and recommend improvements.
 
@@ -188,27 +186,25 @@ The Detective Operating System is designed for composition.
 
 Applications combine DOS with other Operating Systems depending on their purpose.
 
-Examples include:
-
-Code Smell Detective
+Code Smell Detectives
 
 Uses:
 
 * Detective Operating System
 * Star Operating System
 
-The Detective investigates software while appearing as an intelligent character.
+The Detectives investigate software systems while appearing as intelligent animated characters.
 
 ⸻
 
-Agility Game
+Agility Games
 
 Uses:
 
 * Game Operating System
 * Detective Operating System
 
-Players investigate engineering challenges as part of gameplay.
+Players investigate engineering challenges while progressing through gameplay mechanics.
 
 ⸻
 
@@ -219,21 +215,21 @@ Uses:
 * Detective Operating System
 * Runner Operating System
 
-Investigations become orchestrated engineering demonstrations.
+Investigations become orchestrated engineering demonstrations and educational experiences.
 
 ⸻
 
 Capsules
 
-DOS consumes reusable Capsules rather than implementing every capability itself.
+The Detective Operating System consumes reusable Capsules rather than implementing every capability itself.
 
 Examples include:
 
+* Character
 * Systems Thinking
 * Story
 * Documentation
 * Artificial Intelligence
-* Character
 * Memory
 * Voice
 
@@ -258,12 +254,12 @@ AI Assistants consume authoritative information from the Federated Systems of Re
 
 Federated Systems of Record
 
-The Detective Operating System contributes investigation evidence to the Open Engineering Platform.
+The Detective Operating System contributes engineering evidence to the Open Engineering Platform.
 
 It collaborates with:
-```
+
 Platform	Responsibility
-Craft.io	Product Planning
+Craft.io	Product Management
 GitHub	Engineering
 Backstage	Software Catalog
 Detective Operating System	Engineering Evidence
@@ -271,7 +267,7 @@ Kubernetes	Runtime
 Crossplane	Infrastructure Provisioning
 Documentation Repositories	Knowledge
 MCP	AI Context Exchange
-```
+
 DOS owns engineering evidence.
 
 It does not replace the responsibilities of other Systems of Record.
